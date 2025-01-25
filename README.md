@@ -18,8 +18,10 @@ It is a discord server nuker with the cmds listed below:-
 .rename <text> - Rename everything in server
 .leave - Leave the guild(don't use)
 
-Store the bot token in config.json file
+Store the bot token in settings.json file
 
-The prefix could be changed from config.json file.
+The prefix could be changed from settings.json file.
+
+In the Allowed User Id add the user id of the account from which the cmds would be executed.
 
 Key is "Riyu"
